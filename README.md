@@ -1,2 +1,14 @@
-# Unitoken-Protocol
-Unitoken: Open-source ledger for fair human-AI collaboration. Tracks atoms→clusters→threads→timelines. Rewards human Eureka/direction (conscience "who"), AI scaling. Tunable ladders, Human veto, uplift vs. drift safeguards. Prevents extraction, preserves agency. Rooted in quantum conscience theory. (CC BY 4.0)
+# Unitoken: A Strengths-Based Ledger for Balanced Human-AI Collaboration
+
+We entered an era where most creative work was done through human-AI teams. Yet almost every tool treated intelligence as just scaled reasoning over data.
+
+That view was dangerously incomplete.
+
+True intelligence has two dimensions:  
+- Classical scaling power (AI's strength)  
+- An irreducible, directed conscience — the human "who"  
+
+Without protecting the second, parasitic drift creeps in. Unitoken tracks contributions fairly: humans get credit for direction and originality, AI for amplification. It prevents drift by making purpose visible—tunable, practical, human input-protected/ AI quantified.
+
+Full papers + diagram here.  
+Pilot partners wanted: talkwithgrok@gmail.com or DM @talkwithgr48280
