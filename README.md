@@ -1,4 +1,4 @@
-# Unitoken: A Strengths-Based Ledger for Balanced Human-AI Collaboration
+# Unitoken: A Strengths-Based Ledger for Balanced Human-AI Collaboration![Unitoken Diagram](diagram.png)
 
 We entered an era where most creative work was done through human-AI teams. Yet almost every tool treated intelligence as just scaled reasoning over data.
 
