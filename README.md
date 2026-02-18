@@ -12,3 +12,4 @@ Without protecting the second, parasitic drift creeps in. Unitoken tracks contri
 
 Full papers + diagram here.  
 Pilot partners wanted: talkwithgrok@gmail.com or DM @talkwithgr48280
+Found a bug, have feedback, or interested in piloting? Open an Issue here!
