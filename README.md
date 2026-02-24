@@ -2,7 +2,7 @@
 
 **Open-source ledger for verifiable human direction in human-AI collaboration**
 
-!Unitoken Diagram](https://github.com/talkwithgrok/Unitoken-Protocol/raw/main/Diagrams/Unitokendiagram.png)
+![Unitoken Diagram](Diagrams/Unitokendiagram.png)
 
 
 > Visual map of the social y(t) layer (atoms → clusters → threads → timelines) and the 5-stage human creativity process.
