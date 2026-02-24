@@ -8,7 +8,7 @@
 
 ### Start Here
 
-- **[Run your first pilot in under 2 hours]** (Quick-Start/Unitoken Pilot Onboarding Quick-Start v1.1.pdf)  
+- **[Run your first pilot in under 2 hours]** (Unitoken quickstart guide.pdf)  
 - **[Read the Core Ideas First]** (Summaries/Unitoken Core Papers – Short Summaries for Pilot Participants.pdf)
 
 ### Why Unitoken?
