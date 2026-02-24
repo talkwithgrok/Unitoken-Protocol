@@ -1,6 +1,6 @@
 # Unitoken Protocol
 
-**Open-source ledger for verifiable human direction in human-AI collaboration**![Unitoken Diagram](Diagrams/Unitokendiagram.png)
+**Open-source ledger for verifiable human direction in human-AI collaboration**<image-card alt="Unitoken Diagram" src="Unitokendiagram.png" ></image-card>
 
 
 > Visual map of the social y(t) layer (atoms → clusters → threads → timelines) and the 5-stage human creativity process.
