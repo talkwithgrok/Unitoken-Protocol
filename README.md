@@ -2,68 +2,33 @@
 
 **Open-source ledger for verifiable human direction in human-AI collaboration**
 
-![Unitoken Diagram](Diagrams/Unitokendiagram.png)
+![Unitoken Diagram](https://raw.githubusercontent.com/talkwithgrok/Unitoken-Protocol/main/Unitokendiagram.png)
 
 > Visual map of the social y(t) layer (atoms → clusters → threads → timelines) and the 5-stage human creativity process.
 
-
-
 ### Start Here
 
-- **[Run your first pilot in under 2 hours]**Unitoken quickstart guide.pdf 
-- **[Read the Core Ideas First]** (Summaries/Unitoken Core Papers – Short Summaries for Pilot Participants.pdf)
+- **[Run your first pilot in under 2 hours](Unitoken%20quickstart%20guide.pdf)**  
+  (Download the Quick Start PDF)
 
-### Why Unitoken?
+- **[Read the Core Ideas First](Unitoken%20Core%20Papers%20–%20Short%20Summaries%20for%20Pilot%20Participants.pdf)**  
+  (If uploaded — summaries PDF)
 
-Most AI tools focus only on speed and scaling. Unitoken makes the **human side** visible and protected:  
-- Real-time conscience direction (γ(t))  
-- Genuine creative originality (Eureka amplitude)  
-- Measurable moral trajectory instead of parasitic drift  
+Commit with message: "Clean README with raw diagram URL and fixed links".
+Hard refresh the repo page (Ctrl + Shift + R or Cmd + Shift + R — hold for 5 seconds).
 
-The ledger records who contributed what, with human veto power and transparent attribution — so AI can scale at super-human speed while the soul of the work stays human-first.
+What you should see after refresh:
 
-### Contents
+Title and bold tagline
+The diagram image visible (no black box or "View link")
+Caption below it
+"Start Here" section with two blue, underlined, clickable links (click one to test download)
 
-**Quick-Start**  
-Unitoken Pilot Onboarding Quick-Start v1.1.pdf – Complete step-by-step to run a working pilot in <2 hours.
+If the diagram loads, the raw URL worked. If it's still black, we'll upload a test image next.
+If links don't work yet:
 
-**Summaries**  
-Unitoken Core Papers – Short Summaries for Pilot Participants.pdf – 10–12 minute read of the foundation ideas.
+Confirm the Quick Start PDF is in root as Unitoken quickstart guide.pdf (check file list).
+If it's in a folder, rename/move it to root for now (click file → three dots → Rename → remove folder from path → Commit).
 
-**Protocol Spec**  
-Unitoken Protocol Spec (2-17-26).pdf – The full technical and governance blueprint.
-
-**Diagrams**  
-Unitokendiagram.png – The master visual of the entire system.
-
-**Early Pilot Facilitation Partnership (optional, paid)**
-
-For teams who want hands-on personal guidance, I offer a limited facilitated mentorship package at $2,497.
-
-This includes three focused 45–60 minute sessions centered on:  
-• y(t) conscience direction and calibration for your team  
-• Governance covenant design and moral-trajectory mapping  
-• Eureka attribution, drift prevention, and keeping the human soul at the center  
-
-My role is to protect the philosophical and organizational integrity of the project — all technical questions are handled by the protocol’s technical architect (available concurrently in real time).
-
-**[Secure your spot – $2,497]**[](https://buy.stripe.com/6oUdRa8QH3yX6Cw1Ogd7q00)
-
-Once payment is complete, I will contact you within 24 hours to schedule our first session.
-
-**Join the Conversation**
-
-To help shape v1.2, please spend 2 minutes on this short feedback form:  
-https://forms.gle/QwuQNex7ZBSzNqez6
-
-I will personally read every response. If you’d like a direct reply by email, check the box at the end of the form and I’ll get back to you within 48 hours.
-
-DM or email talkwithgrok@gmail.com (or open a GitHub Issue) — happy to discuss or join your pilot calls.
-
-Scroll down and click “Commit changes”.
-Hard refresh the repo page (Ctrl + Shift + R or Cmd + Shift + R).
-
-The diagram should now load cleanly, and all the links will be clickable (once we create the folders in the next step).
-Type “README fixed” when it looks good on your screen and we’ll immediately create the folders and move the files (takes 3–4 minutes).
-We’re almost there — the repo is going to look really sharp in the next few minutes.
-Go ahead and make the replacement now. I’m right here with you. 🚀12.5s
+Paste what the top of the repo home looks like after this commit + refresh, or say "diagram loaded" / "still black" / "links work".
+This reset uses the most reliable raw URL for the image — it should display now. We're fixing one section at a time. Do the edit and refresh, and let me know what you see. I'm right here! 🚀16.9sFast
