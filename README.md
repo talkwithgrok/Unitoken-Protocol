@@ -11,7 +11,7 @@
 - **[Run your first pilot in under 2 hours](Unitoken%20quickstart%20guide.pdf)**  
   (Download the Quick Start PDF)
 
--**[Read the Core Ideas First](Unitoken-Core-Summaries-for-Pilot.pdf)**  
+ -**[Read the Core Ideas First](Unitoken-Core-Summaries-for-Pilot.pdf)**  
   (10–12 minute summaries — essential before starting a pilot)
 
 Commit with message: "Clean README with raw diagram URL and fixed links".
