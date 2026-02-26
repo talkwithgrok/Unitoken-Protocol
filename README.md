@@ -35,19 +35,4 @@ https://forms.gle/QwuQNex7ZBSzNqez6
 I read every response. Check the box for a personal reply by email (within 48 hours).
 
 DM/email: talkwithgrok@gmail.com or open a GitHub Issue.
-<details>
-<summary>Repository Files & Full Foundation Papers (click to expand)</summary>
 
-- **LICENSE** — CC BY 4.0 license
-- **Quantum conscience paper.pdf** — The foundational Quantum Conscience paper
-- **The QMAN Cascade Bridge- Tranberg jan-31-26.pdf** — QMAN Cascade mechanism
-- **Third level QC white paper.pdf** — Third-Level Bridge on moral qualia
-- **Unitoken protocol 2-17-26.pdf** — Full protocol specification
-- **Quick-Start/** — Folder with Quick Start guide
-  - Unitoken Pilot Onboarding Quick-Start v1.1.pdf
-- **Summaries/** — Folder with summaries
-  - Unitoken-Core-Summaries-for-Pilot.pdf
-- **Diagrams/** — Folder with visuals
-  - Unitokendiagram.png
-
-</details>
