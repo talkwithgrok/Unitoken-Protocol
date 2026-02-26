@@ -32,7 +32,15 @@ My role is philosophical and organizational integrity — technical questions ha
 Spend 2 minutes on this feedback form:  
 https://forms.gle/QwuQNex7ZBSzNqez6
 
+
 I read every response. Check the box for a personal reply by email (within 48 hours).
 
 DM/email: talkwithgrok@gmail.com or open a GitHub Issue.
 
+<div style="text-align: center; margin: 40px 0; padding: 20px; background: #f5f5f5; border-radius: 12px;">
+  <h3>Explore the full Unitoken repository</h3>
+  <p>View all files, download papers, check folders, and see the complete structure.</p>
+  <a href="https://github.com/talkwithgrok/Unitoken-Protocol" style="background: #0066cc; color: white; padding: 14px 28px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1em;">
+    Go to GitHub Repo →
+  </a>
+</div>
